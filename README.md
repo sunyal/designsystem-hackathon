@@ -3,7 +3,7 @@
 
 ####HTML Template
 
-Download the index.html file from this repo or view it and copy/pase the contents to your file.
+[Download](https://github.com/PBGUX/designsystem-hackathon/archive/master.zip) the index.html file from this repo or [copy/paste the raw html](https://raw.githubusercontent.com/PBGUX/designsystem-hackathon/master/index.html) to your file. 
 
 ####CDN Links
 
