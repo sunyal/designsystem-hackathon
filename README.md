@@ -3,7 +3,11 @@
 
 ####HTML Template
 
-[Download](https://github.com/PBGUX/designsystem-hackathon/archive/master.zip) the index.html file from this repo or [copy/paste the raw html](https://raw.githubusercontent.com/PBGUX/designsystem-hackathon/master/index.html) to your file. 
+[Download](https://github.com/PBGUX/designsystem-hackathon/archive/master.zip) the index.html file from this repo or [copy/paste the raw html](https://raw.githubusercontent.com/PBGUX/designsystem-hackathon/master/index.html) to your file. The template includes the header and footer, your content goes in the `<body>` indicated by a comment in the file.
+
+<img src="preview.jpg" style="border: 1px solid #dddedf; width: 50%;" />
+
+--------
 
 ####CDN Links
 
@@ -20,6 +24,8 @@ Right before the closing `</body>` include the required JavaScript files:
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 ```
+
+--------
 
 ####Bower Install
 
